@@ -1,0 +1,85 @@
+<!--
+----------------------------------------------------------------------------------------------
+This is based off the default XML layout for multi OS compatibility in ADB Toolkit.
+
+Using this format will allow storage of all non-OS specific text, variable names, and more.
+
+Visit us at: http://www.adbtoolkit.com                                          esc0rtd3w ;)
+----------------------------------------------------------------------------------------------
+-->
+
+
+<adbtk>
+
+<!-- Set Base Script Filename Here -->
+<script></script>
+
+<!-- Set Last Date Modified Here -->
+<modified>20121101</modified>
+
+<!-- Set Base Script Versions Here -->
+<version ostype="windows">1.0.0</version>
+<version ostype="linux">1.0.0</version>
+<version ostype="osx">1.0.0</version>
+<version ostype="android">1.0.0</version>
+
+<!-- Set Specific Title Bar Overrides Here -->
+<titlebar>Android ADB Toolkit                                        -[ adbtoolkit.com ]-<titlebar/>
+
+<!-- Set Menu Text Items Here -->
+<!-- <menu item="1" caption=""></> -->
+<!-- <menu item="2" caption=""></> -->
+<!-- <menu item="3" caption=""></> -->
+
+<!-- Set Other Displayed Text Here -->
+<!-- <text id="1"></> -->
+
+<!-- Set File Names Here -->
+<!-- <file id="1"></> -->
+
+<!-- Set Current Variables Here (Not including variables set by global.cmd/global.sh) -->
+<!-- <variable id="1"></> -->
+
+<!-- Set Local Directory and File Specific Options Here -->
+<!-- <localpath id="1"></> -->
+
+<!-- Set Remote Directory and File Specific Options Here -->
+<!-- <remotepath id="1"></> -->
+
+<!-- Set Web Links and Remote Websites Here -->
+<!-- <link id="1" address="" extra=""></> -->
+
+<!-- Set Dependencies Here -->
+<!-- <dependent id="1"></> -->
+
+<!-- Set Custom Commands Here -->
+<!-- <command id="1"></> -->
+
+<!-- Set Custom Command Arguments Here -->
+<!-- <argument id="1"></> -->
+
+<!-- Set OS Specific Configuration Options Here -->
+<!-- <config id="1"></> -->
+<!-- <config id="2"></> -->
+<!-- <config id="3"></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot1 id="1"></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot2 id="1" id2=""></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot3 id="1" id2="" id3=""></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot4 id="1" id2="" id3="" id4=""></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot5 id="1" id2="" id3="" id4="" id5=""></> -->
+
+<!-- This is a placeholder for future additions -->
+<!-- <magicslot6 id="1" id2="" id3="" id4="" id5="" id6=""></> -->
+
+
+</adbtk>
